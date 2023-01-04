@@ -40,19 +40,19 @@ bp/
 
 ## Install 🔨
 - Step 1
-```
+```shell
 $ Command
 ```
 ## Use 🚀
 > Hint
 - Step 1
-```
+```shell
 $ Command
 ```
 
 ## Develop ⚙️
 - Step 1
-```
+```shell
 $ Command
 ```
 
