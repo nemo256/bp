@@ -1,6 +1,10 @@
 <div align="center">
+
 # `bp`
-Personal boilerplate
+
+<h3>
+  Personal boilerplate
+</h3>
 
 <!-- Badges -->
 ![GitHub Repo stars](https://img.shields.io/github/stars/nemo256/bp?style=for-the-badge)
